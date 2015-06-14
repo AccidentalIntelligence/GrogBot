@@ -1,0 +1,2 @@
+# GrogBot
+Twitch Gamification Bot
